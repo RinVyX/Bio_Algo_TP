@@ -29,7 +29,7 @@ def calcul_bords(m):
     return bord
 
 
-def recherche_morris_prat_version1(m, t):
+def recherche_morris_prat_version1(m, t): #(Problème dans les résultats, je ne sais pas pourquoi)
     len_n = len(t)
     len_m = len(m)
     i = 0
